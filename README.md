@@ -2,14 +2,14 @@
 
 <h1>Anleitungen</h1>
 <a href="http://www.youtube.com/watch?v=rCmZtcnFnZA">Anleitung - Maptool Exporter</a> Stand 02.04.2012 <br>
-		<a href="http://www.youtube.com/watch?v=NGe7Y_p33Sg">Anleitung - W&uuml;rfeltool</a> Stand 29.06.11 <br>
-		<a href="http://www.youtube.com/watch?v=qBjRhNSbaZA">Deinstallations-Anleitung</a> Stand 06.05.11<br>
-		<a href="http://www.youtube.com/watch?v=kKdEf-xioYg">Installations-Anleitung<a/> Stand 07.04.11<br><br><br>
+<a href="http://www.youtube.com/watch?v=NGe7Y_p33Sg">Anleitung - W&uuml;rfeltool</a> Stand 29.06.11 <br>
+<a href="http://www.youtube.com/watch?v=qBjRhNSbaZA">Deinstallations-Anleitung</a> Stand 06.05.11<br>
+<a href="http://www.youtube.com/watch?v=kKdEf-xioYg">Installations-Anleitung<a/> Stand 07.04.11<br><br><br>
 		
-		Alte Versionen der Anleitungen:<br>
-		<a href="http://www.youtube.com/watch?v=Ub57HMdNI9w">Anleitung - W&uuml;rfeltool</a> Stand 12.04.11 <br>	
-		<a href="http://www.youtube.com/watch?v=2ITbzzHiNCA">Deinstallations-Anleitung</a> Stand 25.03.11<br>
-		<a href="http://www.youtube.com/watch?v=H3ApXzF8jTw">Anleitung</a> Stand 09.02.11<br>	
+Alte Versionen der Anleitungen:<br>
+<a href="http://www.youtube.com/watch?v=Ub57HMdNI9w">Anleitung - W&uuml;rfeltool</a> Stand 12.04.11 <br>	
+<a href="http://www.youtube.com/watch?v=2ITbzzHiNCA">Deinstallations-Anleitung</a> Stand 25.03.11<br>
+<a href="http://www.youtube.com/watch?v=H3ApXzF8jTw">Anleitung</a> Stand 09.02.11<br>	
 		
 
 
