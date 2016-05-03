@@ -1,6 +1,8 @@
 package start;
 import java.awt.Desktop;
+import java.io.IOException;
 import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.Date;
 
@@ -40,6 +42,7 @@ public class startprogramm implements HeldenXMLDatenPlugin{
 		liste.add("Wahrscheinlichkeitsrechner");
 		liste.add("Maptool Exporter (2.0beta)");
 		liste.add("Häufigkeiten");
+		liste.add("Über dieses Plugin");
 		return liste; 
 	}
 
@@ -77,6 +80,31 @@ public class startprogramm implements HeldenXMLDatenPlugin{
 		if(menuIdx == 2){
 
 		}
+
+		if(menuIdx == 4){
+			String url = "https://github.com/Dragonjester/heldensoftwareplugin";
+			if(Desktop.isDesktopSupported()){
+				Desktop desktop = Desktop.getDesktop();
+				try {
+					desktop.browse(new URI(url));
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}catch( URISyntaxException e){
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}else{
+				Runtime runtime = Runtime.getRuntime();
+				try {
+					runtime.exec("xdg-open " + url);
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		}
+
 		if(menuIdx == 0 ||menuIdx == 1 || menuIdx == 2 || menuIdx == 3){
 			org.w3c.dom.Document request;
 			final DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
