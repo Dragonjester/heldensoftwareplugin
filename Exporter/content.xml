@@ -1,0 +1,705 @@
+<net.rptools.maptool.model.Token>
+<id>
+<baGUID>CgAADK1LundsAAAAAgAADA==</baGUID>
+</id>
+<beingImpersonated>false</beingImpersonated>
+<exposedAreaGUID>
+<baGUID>CgAADK1LundsAAAAAgAADA==</baGUID>
+</exposedAreaGUID>
+<imageAssetMap>
+<entry>
+<null/>
+<net.rptools.lib.MD5Key>
+<id>f427aa49b28500217ac46ba37c2998a4</id>
+</net.rptools.lib.MD5Key>
+</entry>
+</imageAssetMap>
+<x>629</x>
+<y>200</y>
+<z>16</z>
+<anchorX>0</anchorX>
+<anchorY>0</anchorY>
+<sizeScale>1.0</sizeScale>
+<lastX>0</lastX>
+<lastY>0</lastY>
+<snapToScale>true</snapToScale>
+<width>50</width>
+<height>50</height>
+<scaleX>1.0</scaleX>
+<scaleY>1.0</scaleY>
+<sizeMap>
+<entry>
+<java-class>net.rptools.maptool.model.SquareGrid</java-class>
+<net.rptools.maptool.model.GUID>
+<baGUID>CgAADK1LundsAAAAAgAADA==</baGUID>
+</net.rptools.maptool.model.GUID>
+</entry>
+</sizeMap>
+<snapToGrid>false</snapToGrid>
+<isVisible>true</isVisible>
+<visibleOnlyToOwner>false</visibleOnlyToOwner>
+<name>asdf</name>
+<ownerType>0</ownerType>
+<tokenShape>CIRCLE</tokenShape>
+<tokenType>NPC</tokenType>
+<layer>TOKEN</layer>
+<propertyType>Basic</propertyType>
+<isFlippedX>false</isFlippedX>
+<isFlippedY>false</isFlippedY>
+<hasSight>false</hasSight>
+<state/>
+<propertyMapCI>
+<store>
+<entry>
+<string>Wundenmodifikator</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Wundenmodifikator</key>
+<value class="string">0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>AusweichenAkrobatikmodifikator</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>AusweichenAkrobatikmodifikator</key>
+<value class="string">0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>AusweichenAthletikmodifikator</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>AusweichenAthletikmodifikator</key>
+<value class="string">0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>mu</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MU</key>
+<value class="string">12</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>kl</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KL</key>
+<value class="string">13</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>in</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>IN</key>
+<value class="string">12</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>ch</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>CH</key>
+<value class="string">12</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>ff</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>FF</key>
+<value class="string">11</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>ge</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>GE</key>
+<value class="string">10</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>ko</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KO</key>
+<value class="string">10</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>kk</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KK</key>
+<value class="string">10</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>lep</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>LeP</key>
+<value class="string">
+25</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>maxlep</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MaxLeP</key>
+<value class="string">
+25</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>asp</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>AsP</key>
+<value class="string">
+36</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>mr</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MR</key>
+<value class="string">
+5</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>maxasp</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MaxAsp</key>
+<value class="string">
+36</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>maxkap</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MaxKaP</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>kap</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KaP</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>aup</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>AuP</key>
+<value class="string">
+26</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>maxaup</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MaxAuP</key>
+<value class="string">
+26</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>ini</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>INI</key>
+<value class="string">
+9</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>atbasis</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>AtBasis</key>
+<value class="string">
+6</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>pabasis</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>PaBasis</key>
+<value class="string">
+6</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>febasis</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>FeBasis</key>
+<value class="string">
+7</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>wunden</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Wunden</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rs</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RS</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>be</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>BE</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rskopf</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSKopf</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rsbrust</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSBrust</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rsbauch</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSBauch</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rsbeinlinks</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSBeinLinks</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rsbeinrechts</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSBeinRechts</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rsruecken</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSRuecken</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rsarmlinks</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSArmLinks</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>rsarmrechts</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>RSArmRechts</key>
+<value class="string">
+0</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+kampftalente</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Kampftalente</key>
+<value class="string">[{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Dolche"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Hiebwaffen"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Infanteriewaffen"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Raufen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Ringen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"S&#228;bel"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"St&#228;be"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Wurfmesser"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+gesellschaft</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Gesellschaft</key>
+<value class="string">[{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Etikette"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Gassenwissen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Lehren"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Menschenkenntnis"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Schriftlicher Ausdruck"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"&#220;berreden"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+wissen</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Wissen</key>
+<value class="string">[{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Baukunst"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Brett-/Kartenspiel"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Geografie"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Geschichtswissen"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"G&#246;tter und Kulte"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Heraldik"},{"Talentwert":6,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Magiekunde"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Philosophie"},{"Talentwert":7,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Rechnen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Rechtskunde"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Sagen und Legenden"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Sch&#228;tzen"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Sternkunde"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"IN\"}","Talent":"Tierkunde"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"--\",\"Eigenschaft1\":\"--\",\"Eigenschaft3\":\"--\"}","Talent":"Gildenmagie"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+handwerk</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Handwerk</key>
+<value class="string">[{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"KO\"}","Talent":"Ackerbau"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Alchimie"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Heilkunde: Wunden"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KK\"}","Talent":"Holzbearbeitung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Kochen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Lederarbeiten"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Malen/Zeichnen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Schneidern"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+gaben</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Gaben</key>
+<value class="string">[]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>Natur</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Natur</key>
+<value class="string">[{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Ansitzjagd incl Waffe"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"F&#228;hrtensuchen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Orientierung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Pirschjagd incl Waffe"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"KO\"}","Talent":"Wildnisleben"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Einbruch mit Klettern"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Einbruch ohne Klettern"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Meta: Informationsbeschaffung"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Kr&#228;utersuchen"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Meta: Lied dichten"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Nahrung Sammeln - Pflanzenkunde"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Nahrung Sammeln - Ackerbau"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Meta: Pirsch - und Ansitzjagd"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KO\"}","Talent":"Meta: Wache halten"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KK\"}","Talent":"Meta: Turmspringen"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+koerper</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Koerper</key>
+<value class="string">[{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Athletik"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KK\"}","Talent":"Klettern"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"K&#246;rperbeherrschung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Schleichen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Schwimmen"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KK\"}","Talent":"Selbstbeherrschung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Sich verstecken"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"CH\"}","Talent":"Singen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Sinnensch&#228;rfe"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"CH\",\"Eigenschaft3\":\"GE\"}","Talent":"Tanzen"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"KK\"}","Talent":"Zechen"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+sprachenschriften</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>SprachenSchriften</key>
+<value class="string">[{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Bosparano"},{"Talentwert":15,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Garethi"},{"Talentwert":9,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Tulamidya"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Urtulamidya"}, {"Talentwert":7,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Kusliker Zeichen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Nanduria"},{"Talentwert":6,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Tulamidya"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Urtulamidya"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+zauber</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Zauber</key>
+<value class="string">[{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"Aeolitus Windgebraus"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Analys Arkanstruktur"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"MU\"}","Talent":"Attributo MU"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KL\"}","Talent":"Attributo KL"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Attributo IN"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Attributo CH"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Attributo FF"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Attributo GE"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"Attributo KO"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KK\"}","Talent":"Attributo KK"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Aureolus G&#252;ldenglanz"},{"Talentwert":7,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Auris Nasus Oculus"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Balsam Salabunde"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Blitz dich find"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Cryptographo Zauberschrift"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Duplicatus Doppelbild"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Favilludo Funkentanz"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Flim Flam Funkel"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"MU\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Geisterbann"},{"Talentwert":6,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"MU\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Geisterruf"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Harmlose Gestalt"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"GE\"}","Talent":"Ignorantia Ungesehn"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Illusion aufl&#246;sen"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Manifesto Element"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Menetekel Flammenschrift"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Odem Arcanum"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"Penetrizzel Tiefenblick"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Projektimago Ebenbild"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Reflectimago Spiegelschein"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Visibili Vanitar"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Vocolimbo hohler Klang"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Vogelzwitschern Glockenspiel"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Weihrauchwolke Wohlgeruch"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Widerwille Ungemach"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>vorteile</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Vorteile</key>
+<value class="string">Akademische Ausbildung (Magier), Vollzauberer</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>vorteile_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Vorteile_Anzeigespeicher</key>
+<value class="string">Akademische Ausbildung (Magier), Vollzauberer</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>nachteile</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Nachteile</key>
+<value class="string">Verpflichtungen</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>nachteile_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Nachteile_Anzeigespeicher</key>
+<value class="string">Verpflichtungen</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>schlechteeigenschaften</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>schlechteEigenschaften</key>
+<value class="string">Angst vor Feuer=6; Neugier=7; </value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>allgemeineSF</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>AllgemeineSF</key>
+<value class="string">Kulturkunde (Mittelreich), Illusion, Ortskenntnis (Stadtteil/Kleinstadt), Magier, Stabzauber: Bindung</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>allgemeineSF_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>AllgemeineSF_Anzeigespeicher</key>
+<value class="string">Kulturkunde (Mittelreich), Illusion, Ortskenntnis (Stadtteil/Kleinstadt), Magier, Stabzauber: Bindung</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>kampfSF</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KampfSF</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>kampfSF_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KampfSF_Anzeigespeicher</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>nahkampfSF</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>NahkampfSF</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>nahkampfSF_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>NahkampfSF_Anzeigespeicher</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>fernkampfSF</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>FernkampfSF</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>fernkampfSF_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>FernkampfSF_Anzeigespeicher</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>hand2HandStyles</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Hand2HandStyles</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>hand2HandStyles_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Hand2HandStyles_Anzeigespeicher</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>hand2HandSF</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Hand2HandSF</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>hand2HandSF_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Hand2HandSF_Anzeigespeicher</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>magieSF</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MagieSF</key>
+<value class="string">Astrale Meditation, Gro&#223;e Meditation, Ritualkenntnis: Gildenmagie, Simultanzaubern</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>magieSF_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>MagieSF_Anzeigespeicher</key>
+<value class="string">Astrale Meditation, Gro&#223;e Meditation, Ritualkenntnis: Gildenmagie, Simultanzaubern</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>klerikaleSF</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KlerikaleSF</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>klerikaleSF_Anzeigespeicher</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>KlerikaleSF_Anzeigespeicher</key>
+<value class="string"></value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+kampftalente</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Kampftalente</key>
+<value class="string">[{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Dolche"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Hiebwaffen"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Infanteriewaffen"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Raufen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Ringen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"S&#228;bel"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"St&#228;be"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Wurfmesser"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+gesellschaft</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Gesellschaft</key>
+<value class="string">[{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Etikette"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Gassenwissen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Lehren"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Menschenkenntnis"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Schriftlicher Ausdruck"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"&#220;berreden"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+wissen</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Wissen</key>
+<value class="string">[{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Baukunst"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Brett-/Kartenspiel"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Geografie"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Geschichtswissen"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"G&#246;tter und Kulte"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Heraldik"},{"Talentwert":6,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Magiekunde"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Philosophie"},{"Talentwert":7,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Rechnen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Rechtskunde"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Sagen und Legenden"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Sch&#228;tzen"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Sternkunde"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"IN\"}","Talent":"Tierkunde"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"--\",\"Eigenschaft1\":\"--\",\"Eigenschaft3\":\"--\"}","Talent":"Gildenmagie"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+handwerk</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Handwerk</key>
+<value class="string">[{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"KO\"}","Talent":"Ackerbau"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Alchimie"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Heilkunde: Wunden"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KK\"}","Talent":"Holzbearbeitung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Kochen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Lederarbeiten"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Malen/Zeichnen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"FF\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Schneidern"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+gaben</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Gaben</key>
+<value class="string">[]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>Natur</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Natur</key>
+<value class="string">[{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Ansitzjagd incl Waffe"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"F&#228;hrtensuchen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Orientierung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Pirschjagd incl Waffe"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"KO\"}","Talent":"Wildnisleben"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Einbruch mit Klettern"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Einbruch ohne Klettern"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Meta: Informationsbeschaffung"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Kr&#228;utersuchen"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Meta: Lied dichten"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Nahrung Sammeln - Pflanzenkunde"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"FF\"}","Talent":"Meta: Nahrung Sammeln - Ackerbau"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Meta: Pirsch - und Ansitzjagd"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KO\"}","Talent":"Meta: Wache halten"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KK\"}","Talent":"Meta: Turmspringen"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+koerper</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Koerper</key>
+<value class="string">[{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Athletik"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KK\"}","Talent":"Klettern"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"K&#246;rperbeherrschung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Schleichen"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"GE\",\"Eigenschaft3\":\"KK\"}","Talent":"Schwimmen"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"KK\"}","Talent":"Selbstbeherrschung"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Sich verstecken"},{"Talentwert":0,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"CH\"}","Talent":"Singen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Sinnensch&#228;rfe"},{"Talentwert":1,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"GE\",\"Eigenschaft1\":\"CH\",\"Eigenschaft3\":\"GE\"}","Talent":"Tanzen"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KO\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"KK\"}","Talent":"Zechen"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+sprachenschriften</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>SprachenSchriften</key>
+<value class="string">[{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Bosparano"},{"Talentwert":15,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Garethi"},{"Talentwert":9,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Tulamidya"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Urtulamidya"}, {"Talentwert":7,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Kusliker Zeichen"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Nanduria"},{"Talentwert":6,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Tulamidya"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"L/S Urtulamidya"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>
+zauber</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Zauber</key>
+<value class="string">[{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"Aeolitus Windgebraus"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Analys Arkanstruktur"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"MU\"}","Talent":"Attributo MU"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KL\"}","Talent":"Attributo KL"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Attributo IN"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Attributo CH"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Attributo FF"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Attributo GE"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"Attributo KO"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KK\"}","Talent":"Attributo KK"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Aureolus G&#252;ldenglanz"},{"Talentwert":7,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Auris Nasus Oculus"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Balsam Salabunde"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Blitz dich find"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Cryptographo Zauberschrift"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Duplicatus Doppelbild"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Favilludo Funkentanz"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Flim Flam Funkel"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"MU\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Geisterbann"},{"Talentwert":6,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"MU\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Geisterruf"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Harmlose Gestalt"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"GE\"}","Talent":"Ignorantia Ungesehn"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Illusion aufl&#246;sen"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"CH\"}","Talent":"Manifesto Element"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Menetekel Flammenschrift"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"IN\"}","Talent":"Odem Arcanum"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"KL\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"KO\"}","Talent":"Penetrizzel Tiefenblick"},{"Talentwert":5,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"CH\"}","Talent":"Projektimago Ebenbild"},{"Talentwert":2,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Reflectimago Spiegelschein"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"GE\"}","Talent":"Visibili Vanitar"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"KL\",\"Eigenschaft3\":\"FF\"}","Talent":"Vocolimbo hohler Klang"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Vogelzwitschern Glockenspiel"},{"Talentwert":4,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"CH\",\"Eigenschaft1\":\"IN\",\"Eigenschaft3\":\"FF\"}","Talent":"Weihrauchwolke Wohlgeruch"},{"Talentwert":3,"Anzeigen":"checked","Spezialisierungen":"","Probe":"{\"Eigenschaft2\":\"IN\",\"Eigenschaft1\":\"MU\",\"Eigenschaft3\":\"GE\"}","Talent":"Widerwille Ungemach"}]</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>waffen</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>Waffen</key>
+<value class="string">WaffenLaufIndex=2;Waffe1bezeichnung=Raufen ; Waffe1DK=H; Waffe1TP=1d6+0; Waffe1INI=0; Waffe1AT=6; Waffe1PA=6; Waffe1BF=0; Waffe2bezeichnung=Ringen ; Waffe2DK=H; Waffe2TP=1d6+0; Waffe2INI=0; Waffe2AT=6; Waffe2PA=6; Waffe2BF=0; </value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+<entry>
+<string>inventarmisc</string>
+<net.rptools.CaseInsensitiveHashMap_-KeyValue>
+<key>InventarMisc</key>
+<value class="string">{&quot;behaelter1&quot;:&quot;Rucksack&quot;,&quot;behaelter2&quot;:&quot;G&amp;uuml;rteltasche&quot;,&quot;behaelter3&quot;:&quot;Beutel&quot;,&quot;behaelter4&quot;:&quot;Am K&amp;ouml;rper getragen&quot;,&quot;behaelter5&quot;:&quot;Satteltaschen&quot;,&quot;dukaten&quot;:1,&quot;silbertaler&quot;:2,&quot;heller&quot;:3,&quot;kreuzer&quot;:4}</value>
+<outer-class reference="../../../.."/>
+</net.rptools.CaseInsensitiveHashMap_-KeyValue>
+</entry>
+</store>
+</propertyMapCI>
+<macroPropertiesMap/>
+<speechMap/>
+</net.rptools.maptool.model.Token>

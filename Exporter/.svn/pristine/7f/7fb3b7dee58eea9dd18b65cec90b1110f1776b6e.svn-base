@@ -1,0 +1,35 @@
+package versControll;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
+public class versControll
+{
+	public static String currentVers = "11.05.13";
+	public static boolean check(){
+		try{
+		String surl = "https://dl.dropbox.com/u/377944/W%C3%BCrfeltool/vers.txt";
+		URL url = new URL (surl);
+		BufferedReader br = new BufferedReader (new InputStreamReader (url.openConnection ().getInputStream ()));
+
+		String line = "";
+		do
+		{
+			line = br.readLine ();
+			System.out.println(line);
+			if (line != null){
+				if(!line.equals(currentVers)){
+				
+					return true;
+				}
+			}
+		}while (line != null);
+		}catch(IOException e){return false;}
+		return false;
+	}
+}
