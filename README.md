@@ -1,3 +1,5 @@
+Hierbei handelt es sich um ein Plugin für die <a href="helden-software.de">Helden-Software</a> dass u.a. den Exporter für Farlons Maptool Framework (<a href="http://www.drachenzwinge.de/forum/index.php?topic=77805.0">Link</a>) beinhaltet.
+
 <h1>Aktuelles Release</h1>
 <a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/11.05.13.7z">11.05.13</a><br/>
 <h1>Anleitungen</h1>
