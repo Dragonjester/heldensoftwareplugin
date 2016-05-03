@@ -1,5 +1,5 @@
 <h1>Aktuelles Release</h1>
-
+<a href="https://github.com/Dragonjester/heldensoftwareplugin/blob/master/Releases/11.05.13.7z">11.05.13</a><br/>
 <h1>Anleitungen</h1>
 <a href="http://www.youtube.com/watch?v=rCmZtcnFnZA">Anleitung - Maptool Exporter</a> Stand 02.04.2012 <br>
 <a href="http://www.youtube.com/watch?v=NGe7Y_p33Sg">Anleitung - W&uuml;rfeltool</a> Stand 29.06.11 <br>
