@@ -1,5 +1,5 @@
 <h1>Changelog</h1><br/>
-03.05.16 - Bugfix: Die Vorteile Flink und Astrale Regeneration werden jetzt mit exportiert<br/>
+??.??.16 - Bugfix: Die Vorteile Flink und Astrale Regeneration werden jetzt mit exportiert<br/>
 17.03.13 - Bugfix: Angezeigte Eigenschaftsnamen im Würfeltool, Bugfix: Fehlerhafte Tokens<br/>
 06.02.13 - Meta-Talent: Turmspringen, Bugfix Updatecheck<br/>
 21.10.12 - MR wird eingetragen, Bugfix: Ausweichen Wert, Bugfix: Akrobatik wird zur Ini Modifikation herangezogen und nicht Athletik<br/>
