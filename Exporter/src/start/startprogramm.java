@@ -88,13 +88,13 @@ public class startprogramm implements HeldenXMLDatenPlugin{
 				try {
 					desktop.browse(new URI(url));
 				} catch (IOException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}catch( URISyntaxException e){
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 			}else{
+				//ungetester Pfad. Unter Linux wird Desktop wohl nicht immer unterstützt.
+				//Sollte dass nicht funktionieren: schickt mir einen Pull-Request :-)
 				Runtime runtime = Runtime.getRuntime();
 				try {
 					runtime.exec("xdg-open " + url);

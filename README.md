@@ -1,4 +1,6 @@
-Hierbei handelt es sich um ein Plugin für die <a href="helden-software.de">Helden-Software</a> dass u.a. den Exporter für Farlons Maptool Framework (<a href="http://www.drachenzwinge.de/forum/index.php?topic=77805.0">Link</a>) beinhaltet.
+Hierbei handelt es sich um ein Plugin für die <a href="helden-software.de">Helden-Software</a> dass u.a. den Exporter für Farlons DSA 4.1 Maptool Framework (<a href="http://www.drachenzwinge.de/forum/index.php?topic=77805.0">Link</a>) beinhaltet.<br/>
+
+Wenn ihr mich auf der Drachenzwinge anschreiben wollt, da ist mein Nick <a href="http://www.drachenzwinge.de/forum/index.php?action=profile;u=1815">Grom</a><br/>
 
 <h1>Aktuelles Release</h1>
 <a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/11.05.13.7z">11.05.13</a><br/>
@@ -6,7 +8,7 @@ Hierbei handelt es sich um ein Plugin für die <a href="helden-software.de">Held
 <a href="http://www.youtube.com/watch?v=rCmZtcnFnZA">Anleitung - Maptool Exporter</a> Stand 02.04.2012 <br/>
 <a href="http://www.youtube.com/watch?v=NGe7Y_p33Sg">Anleitung - W&uuml;rfeltool</a> Stand 29.06.11 <br/>
 <a href="http://www.youtube.com/watch?v=qBjRhNSbaZA">Deinstallations-Anleitung</a> Stand 06.05.11<br/>
-<a href="http://www.youtube.com/watch?v=kKdEf-xioYg">Installations-Anleitung<a/> Stand 07.04.11<br/><br/><br/>
+<a href="http://www.youtube.com/watch?v=kKdEf-xioYg">Installations-Anleitung<a/> Stand 07.04.11<br/><br/>
 		
 Alte Versionen der Anleitungen:<br/>
 <a href="http://www.youtube.com/watch?v=Ub57HMdNI9w">Anleitung - W&uuml;rfeltool</a> Stand 12.04.11<br/>
