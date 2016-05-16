@@ -16,7 +16,7 @@ Alte Versionen der Anleitungen:<br/>
 <a href="http://www.youtube.com/watch?v=2ITbzzHiNCA">Deinstallations-Anleitung</a> Stand 25.03.11<br/>
 <a href="http://www.youtube.com/watch?v=H3ApXzF8jTw">Anleitung</a> Stand 09.02.11<br/>	
 		
-Bekannte Fehler:
+Bekannte Fehler:<br/>
 -Astrale Reg wird nicht als Vorteil exportiert<br/>
 -Flink wird nicht als Vorteil exportiert<br/>
 -Inventar wird nicht vollständig exportiert<br/>
