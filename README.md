@@ -53,5 +53,4 @@ Alte Versionen der Anleitungen:<br/>
 23.01.11 - Ab hier ist das W&uuml;rfeltool ein Plugin f&uuml;r das Heldentool und kann nicht mehr als Eigenst&auml;ndiges Programm ausgef&uuml;hrt werden 
 
 <h1>Lizenz</h1><br/>
-Die Assets sind Maptool Token entnommen und unterliegen entsprechender Lizenz.<br/>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
