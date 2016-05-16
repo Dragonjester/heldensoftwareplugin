@@ -2,6 +2,14 @@ Hierbei handelt es sich um ein Plugin für die <a href="helden-software.de">Held
 
 Wenn ihr mich auf der Drachenzwinge anschreiben wollt, dort heiße ich <a href="http://www.drachenzwinge.de/forum/index.php?action=profile;u=1815">Grom</a><br/>
 
+Über Bugfixes und sonstige Erweiterungen würde ich mich freuen :-)<br/><br/>
+
+Bekannte Fehler:<br/>
+-Astrale Reg wird nicht als Vorteil exportiert<br/>
+-Flink wird nicht als Vorteil exportiert<br/>
+-Inventar wird nicht vollständig exportiert<br/>
+-Geldbörse wird nicht exportiert<br/>
+
 <h1>Aktuelles Release</h1>
 <a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/11.05.13.7z">11.05.13</a><br/>
 
@@ -16,11 +24,7 @@ Alte Versionen der Anleitungen:<br/>
 <a href="http://www.youtube.com/watch?v=2ITbzzHiNCA">Deinstallations-Anleitung</a> Stand 25.03.11<br/>
 <a href="http://www.youtube.com/watch?v=H3ApXzF8jTw">Anleitung</a> Stand 09.02.11<br/>	
 		
-Bekannte Fehler:<br/>
--Astrale Reg wird nicht als Vorteil exportiert<br/>
--Flink wird nicht als Vorteil exportiert<br/>
--Inventar wird nicht vollständig exportiert<br/>
--Geldbörse wird nicht exportiert<br/>
+
 
 <h1>Changelog</h1><br/>
 17.03.13 - Bugfix: Angezeigte Eigenschaftsnamen im W&uuml;rfeltool, Bugfix: Fehlerhafte Tokens<br/>
@@ -49,4 +53,5 @@ Bekannte Fehler:<br/>
 23.01.11 - Ab hier ist das W&uuml;rfeltool ein Plugin f&uuml;r das Heldentool und kann nicht mehr als Eigenst&auml;ndiges Programm ausgef&uuml;hrt werden 
 
 <h1>Lizenz</h1><br/>
+Die Assets sind Maptool Token entnommen und unterliegen entsprechender Lizenz.<br/>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
