@@ -1,9 +1,10 @@
 Hierbei handelt es sich um ein Plugin für die <a href="helden-software.de">Helden-Software</a> dass u.a. den Exporter für Farlons DSA 4.1 Maptool Framework (<a href="http://www.drachenzwinge.de/forum/index.php?topic=77805.0">Link</a>) beinhaltet.<br/>
 
-Wenn ihr mich auf der Drachenzwinge anschreiben wollt, da ist mein Nick <a href="http://www.drachenzwinge.de/forum/index.php?action=profile;u=1815">Grom</a><br/>
+Wenn ihr mich auf der Drachenzwinge anschreiben wollt, dort heiße ich <a href="http://www.drachenzwinge.de/forum/index.php?action=profile;u=1815">Grom</a><br/>
 
 <h1>Aktuelles Release</h1>
 <a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/11.05.13.7z">11.05.13</a><br/>
+
 <h1>Anleitungen</h1>
 <a href="http://www.youtube.com/watch?v=rCmZtcnFnZA">Anleitung - Maptool Exporter</a> Stand 02.04.2012 <br/>
 <a href="http://www.youtube.com/watch?v=NGe7Y_p33Sg">Anleitung - W&uuml;rfeltool</a> Stand 29.06.11 <br/>
@@ -15,10 +16,13 @@ Alte Versionen der Anleitungen:<br/>
 <a href="http://www.youtube.com/watch?v=2ITbzzHiNCA">Deinstallations-Anleitung</a> Stand 25.03.11<br/>
 <a href="http://www.youtube.com/watch?v=H3ApXzF8jTw">Anleitung</a> Stand 09.02.11<br/>	
 		
-
+Bekannte Fehler:
+-Astrale Reg wird nicht als Vorteil exportiert<br/>
+-Flink wird nicht als Vorteil exportiert<br/>
+-Inventar wird nicht vollständig exportiert<br/>
+-Geldbörse wird nicht exportiert<br/>
 
 <h1>Changelog</h1><br/>
-??.??.16 - Bugfix: Die Vorteile Flink und Astrale Regeneration werden jetzt mit exportiert<br/>
 17.03.13 - Bugfix: Angezeigte Eigenschaftsnamen im W&uuml;rfeltool, Bugfix: Fehlerhafte Tokens<br/>
 06.02.13 - Meta-Talent: Turmspringen, Bugfix Updatecheck<br/>
 21.10.12 - MR wird eingetragen, Bugfix: Ausweichen Wert, Bugfix: Akrobatik wird zur Ini Modifikation herangezogen und nicht Athletik<br/>
