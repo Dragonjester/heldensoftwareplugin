@@ -7,6 +7,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.io.PrintWriter;
+import java.io.StringWriter;
 import java.util.LinkedList;
 import java.util.Vector;
 
@@ -48,7 +50,24 @@ public class exporter {
 			a.write("<map><entry><string>version</string><string>1.3.b63</string></entry></map>".getBytes());
 			a.close();
 
+			
+			boolean thumbnailFound = getClass().getResourceAsStream("/thumbnail") == null;
+			boolean assetXMLFound = getClass().getResourceAsStream("/assets/f427aa49b28500217ac46ba37c2998a4") == null;
+			boolean assetPictureFound = getClass().getResourceAsStream("/assets/f427aa49b28500217ac46ba37c2998a4.png") == null;
 	
+			if(thumbnailFound == true){
+				JOptionPane.showMessageDialog(new JFrame(), "Nicht extrahiert: Thumbnail", "Fehler", JOptionPane.INFORMATION_MESSAGE);
+			}
+			
+			if(assetXMLFound == true){
+				JOptionPane.showMessageDialog(new JFrame(), "Nicht extrahiert: assetXML", "Fehler", JOptionPane.INFORMATION_MESSAGE);
+			}
+			
+			if(assetPictureFound == true){
+				JOptionPane.showMessageDialog(new JFrame(), "Nicht extrahiert: assetPicture", "Fehler", JOptionPane.INFORMATION_MESSAGE);
+			}
+			
+			
 			File thumbnailFile = inStreamToFile(getClass().getResourceAsStream("/thumbnail"), "thumbnail");
 			
 			File assetXML = inStreamToFile(getClass().getResourceAsStream("/assets/f427aa49b28500217ac46ba37c2998a4"), "f427aa49b28500217ac46ba37c2998a4");
@@ -65,22 +84,37 @@ public class exporter {
 
 			propertiesFile.delete();
 			contentFile.delete();
-			thumbnailFile.delete();
 			assetXML.delete();
 			assetPicture.delete();
 
 			JOptionPane.showMessageDialog(new JFrame(), "Export erfolgreich", "Erfolg", JOptionPane.INFORMATION_MESSAGE);
 		} catch (Exception e1) {
-			JOptionPane.showMessageDialog(new JFrame(), e1.getLocalizedMessage() + " \n " + e1.getMessage(), "FEHLER", JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(new JFrame(), e1.getClass() + "\n" + stackTraceToString(e1.getStackTrace()), "FEHLER", JOptionPane.INFORMATION_MESSAGE);
 		}
 
 	}
 
+	
+	public static String stackTraceToString(StackTraceElement[] stackTrace) {
+        StringWriter sw = new StringWriter();
+        printStackTrace(stackTrace, new PrintWriter(sw));
+        return sw.toString();
+    }
+	
+    public static void printStackTrace(StackTraceElement[] stackTrace, PrintWriter pw) {
+        for(StackTraceElement stackTraceEl : stackTrace) {
+            pw.println(stackTraceEl);
+        }
+    }
+	
 	public static File inStreamToFile(InputStream in, String fileName) throws FileNotFoundException, IOException {
 		File f = new File(fileName);
-		if(f.exists() == false){
-			int i = 0;
+		
+		if(in == null){
+			System.out.println("Inputstream ist NULL");
+			return null;
 		}
+		
 		f.deleteOnExit();
 		OutputStream out = new FileOutputStream(f);
 		byte buf[] = new byte[4096];
