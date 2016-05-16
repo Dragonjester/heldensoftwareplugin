@@ -5,8 +5,8 @@ Wenn ihr mich auf der Drachenzwinge anschreiben wollt, dort heiße ich <a href="
 Über Bugfixes und sonstige Erweiterungen würde ich mich freuen :-)<br/><br/>
 
 Bekannte Fehler:<br/>
--Astrale Reg wird nicht als Vorteil exportiert<br/>
--Flink wird nicht als Vorteil exportiert<br/>
+-Astrale Reg wird nicht als Vorteil exportiert (Im Quellcode bereits gefixt)<br/>
+-Flink wird nicht als Vorteil exportiert (Im Quellcode bereits gefixt)<br/>
 -Inventar wird nicht vollständig exportiert<br/>
 -Geldbörse wird nicht exportiert<br/>
 
