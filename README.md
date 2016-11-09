@@ -5,10 +5,8 @@ Wenn ihr mich auf der Drachenzwinge anschreiben wollt, dort heiße ich <a href="
 Über Bugfixes und sonstige Erweiterungen würde ich mich freuen :-)<br/><br/>
 
 Bekannte Fehler:<br/>
--Astrale Reg wird nicht als Vorteil exportiert (Im Quellcode bereits gefixt)<br/>
--Flink wird nicht als Vorteil exportiert (Im Quellcode bereits gefixt)<br/>
 -Inventar wird nicht vollständig exportiert<br/>
--Geldbörse wird nicht exportiert<br/>
+-Es wird nur Mittelreichische Währung exportiert<br/>
 
 <h1>Aktuelles Release</h1>
 <a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/11.05.13.7z">11.05.13</a><br/>
