@@ -9,7 +9,7 @@ Bekannte Fehler:<br/>
 -Es wird nur Mittelreichische Währung exportiert<br/>
 
 <h1>Aktuelles Release</h1>
-<a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/11.05.16.7z">09.11.2016</a><br/>
+<a href="https://raw.githubusercontent.com/Dragonjester/heldensoftwareplugin/master/Releases/09.11.16.7z">09.11.2016</a><br/>
 
 <h1>Anleitungen</h1>
 <a href="http://www.youtube.com/watch?v=rCmZtcnFnZA">Anleitung - Maptool Exporter</a> Stand 02.04.2012 <br/>
