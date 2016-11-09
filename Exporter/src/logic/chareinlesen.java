@@ -126,17 +126,21 @@ public class chareinlesen implements Serializable {
 		}
 	}
 	private void geldBörse() {
-		if(xPath("/daten/geld/Dukat/anzahl").getLength() > 0)
+		if(xPath("/daten/geld/Dukat/anzahl").getLength() > 0){
 			dukaten = getVeryFirstByXPath("/daten/geld/Dukat/anzahl");
+		}
 
-		if(xPath("/daten/geld/Silbertaler/anzahl").getLength() > 0)
+		if(xPath("/daten/geld/Silbertaler/anzahl").getLength() > 0){
 			silber = getVeryFirstByXPath("/daten/geld/Silbertaler/anzahl");
+		}
 
-		if(xPath("/daten/geld/Heller/anzahl").getLength() > 0)
+		if(xPath("/daten/geld/Heller/anzahl").getLength() > 0){
 			heller = getVeryFirstByXPath("/daten/geld/Heller/anzahl");
+		}
 
-		if(xPath("/daten/geld/Kreuzer/anzahl").getLength() > 0)
+		if(xPath("/daten/geld/Kreuzer/anzahl").getLength() > 0){
 			kreuzer = getVeryFirstByXPath("/daten/geld/Kreuzer/anzahl");
+		}
 
 	}
 

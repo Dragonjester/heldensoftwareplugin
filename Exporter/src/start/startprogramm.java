@@ -61,7 +61,7 @@ public class startprogramm implements HeldenXMLDatenPlugin{
 	}
 
 	public String getMenuName() {
-		return "CAAs DSA-Tool";
+		return "Groms DSA-Tool";
 	}
 
 	public void doWork(JFrame f) {

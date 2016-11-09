@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 public class versControll
 {
-	public static String currentVers = "03.05.16";
+	public static String currentVers = "09.11.16";
 	public static boolean check(){
 		//hier war mal stuff drin. aber screw this.
 		return false;

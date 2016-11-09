@@ -22,7 +22,16 @@ public class fileChooser {
 		if ( state == JFileChooser.APPROVE_OPTION )
 		{
 			File file = fc.getSelectedFile();
-			return new File(file.getPath().concat(".rptok"));
+			String filePath = file.getPath();
+			
+			if(!file.getPath().contains(".rptok")){
+				filePath += ".rptok";
+			}
+			
+			de.CAA.utils.msgbox a = new de.CAA.utils.msgbox(filePath);
+			
+			
+			return new File(filePath);
 		}
 		else
 			return null;

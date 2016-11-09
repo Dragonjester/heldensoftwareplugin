@@ -31,6 +31,11 @@ public class exporter {
 	String result;
 	chareinlesen derChar;
 	public exporter(Document ret, File pfad){
+		boolean deleted = false;
+		if(pfad.exists()){
+			deleted = pfad.delete();
+		}
+
 		try {
 			derChar = new chareinlesen();
 			derChar.Dateiauswahl(ret);
@@ -81,7 +86,7 @@ public class exporter {
 			zipFiles.add(contentFile);
 			zipFiles.add(thumbnailFile);
 			Zip.packArchive(pfad, zipFiles);
-
+			
 			propertiesFile.delete();
 			contentFile.delete();
 			assetXML.delete();
