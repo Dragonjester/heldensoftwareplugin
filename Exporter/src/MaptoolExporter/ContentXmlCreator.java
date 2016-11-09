@@ -123,7 +123,7 @@ public class ContentXmlCreator {
 		result += "<net.rptools.CaseInsensitiveHashMap_-KeyValue>\n";
 		result += "<key>InventarMisc</key>\n";
 		result += "<value class=\"string\">";
-		result += "{&quot;behaelter1&quot;:&quot;Rucksack&quot;,&quot;behaelter2&quot;:&quot;G&amp;uuml;rteltasche&quot;,&quot;behaelter3&quot;:&quot;Beutel&quot;,&quot;behaelter4&quot;:&quot;Am K&amp;ouml;rper getragen&quot;,&quot;behaelter5&quot;:&quot;Satteltaschen&quot;,&quot;dukaten&quot;:1,&quot;silbertaler&quot;:2,&quot;heller&quot;:3,&quot;kreuzer&quot;:4}";
+		result += "{&quot;behaelter1&quot;:&quot;Rucksack&quot;,&quot;behaelter2&quot;:&quot;G&amp;uuml;rteltasche&quot;,&quot;behaelter3&quot;:&quot;Beutel&quot;,&quot;behaelter4&quot;:&quot;Am K&amp;ouml;rper getragen&quot;,&quot;behaelter5&quot;:&quot;Satteltaschen&quot;,&quot;dukaten&quot;:" + derChar.dukaten + ",&quot;silbertaler&quot;:" + derChar.silber + ",&quot;heller&quot;:" + derChar.heller + ",&quot;kreuzer&quot;:" + derChar.kreuzer + "}";
 		result += "</value>\n";
 		result += "<outer-class reference=\"../../../..\"/>\n";
 		result += "</net.rptools.CaseInsensitiveHashMap_-KeyValue>\n";
