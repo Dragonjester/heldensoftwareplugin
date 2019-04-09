@@ -8,7 +8,7 @@ Bekannte Fehler:<br/>
 -Inventar wird nicht vollständig exportiert<br/>
 -Es wird nur Mittelreichische Währung exportiert<br/>
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=USK2EQHDTMPP8&source=url) Du könntest mir einen Kaffe ausgeben!
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/deltahedron) Du könntest mir einen Kaffe ausgeben!
 
 <h1>Aktuelles Release</h1>
 <a href="http://bit.ly/2eDzZSg">09.11.2016</a><br/>
