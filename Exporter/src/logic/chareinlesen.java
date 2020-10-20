@@ -199,11 +199,13 @@ public class chareinlesen implements Serializable {
 			NodeList nahkampfWaffenAt = xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/at");
 			NodeList nahkampfWaffenPa = xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/pa");
 			NodeList nahkampfWaffenDmg = xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/tpinkl");
+			NodeList nahkampfWaffenTp = xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/tp");
+			NodeList nahkampfWaffenTpkk = xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/tpkk");
 			NodeList nahkampfWaffenName = xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/name");
 			NodeList nahkampfWaffenDk =  xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/dk");
 			NodeList nahkampfWaffenIni =   xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/ini");
 			NodeList nahkampfWaffenBf =  xPath("/daten/kampfsets/kampfset[@inbenutzung=\"true\"][@tzm=\"true\"][@nr=\"1\"]/nahkampfwaffen[@inbenutzung=\"true\"]/nahkampfwaffe/bfmin");
-			String at, pa, dmg, name, dk, ini, bf;
+			String at, pa, dmg, tp, tpkk, name, dk, ini, bf;
 			for(int i = 0; i < nahkampfWaffenAt.getLength(); i++){
 				name = nahkampfWaffenName.item(i).getChildNodes().item(0).getTextContent();
 				dk = nahkampfWaffenDk.item(i).getChildNodes().item(0).getTextContent();
@@ -211,10 +213,12 @@ public class chareinlesen implements Serializable {
 				at = nahkampfWaffenAt.item(i).getChildNodes().item(0).getTextContent();
 				pa = nahkampfWaffenPa.item(i).getChildNodes().item(0).getTextContent();
 				dmg = nahkampfWaffenDmg.item(i).getChildNodes().item(0).getTextContent();
+				tp = nahkampfWaffenTp.item(i).getChildNodes().item(0).getTextContent();
+				tpkk = nahkampfWaffenTpkk.item(i).getChildNodes().item(0).getTextContent();
 				bf = nahkampfWaffenBf.item(i).getChildNodes().item(0).getTextContent();
 
 				if(!WaffeSchonInListe(name))
-					WaffenListe.add(new Waffe(name, at, pa, dmg, dk, ini, bf));
+					WaffenListe.add(new Waffe(name, at, pa, dmg, tp, tpkk, dk, ini, bf));
 			}
 
 
