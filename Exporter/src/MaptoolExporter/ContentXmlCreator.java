@@ -186,6 +186,8 @@ public class ContentXmlCreator {
 				result += "Waffe" + (i+1) + "bezeichnung=" + ((Waffe) derChar.WaffenListe.get(i)).bezeichnung + " ; ";
 				result += "Waffe" + (i+1) + "DK=" + ((Waffe) derChar.WaffenListe.get(i)).DK + "; ";
 				result += "Waffe" + (i+1) + "TP=" + ((Waffe) derChar.WaffenListe.get(i)).dmg + "; ";
+				result += "Waffe" + (i+1) + "TPg=" + ((Waffe) derChar.WaffenListe.get(i)).TP + "; ";
+				result += "Waffe" + (i+1) + "TPKK=" + ((Waffe) derChar.WaffenListe.get(i)).TPKK + "; ";
 				result += "Waffe" + (i+1) + "INI=" + ((Waffe) derChar.WaffenListe.get(i)).INI + "; ";
 				result += "Waffe" + (i+1) + "AT=" + ((Waffe) derChar.WaffenListe.get(i)).AT + "; ";
 				result += "Waffe" + (i+1) + "PA=" + ((Waffe) derChar.WaffenListe.get(i)).PA + "; ";
