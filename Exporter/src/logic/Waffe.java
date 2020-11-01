@@ -4,7 +4,9 @@ public class Waffe {
 	public String bezeichnung = "";
 	public String AT = "0";
 	public String PA = "0";
-	public String dmg = "";	
+	public String dmg = "";
+	public String TP = "";
+	public String TPKK = "";
 	public String DK = "";
 	public String INI = "";
 	public String BF = ""; 
@@ -23,5 +25,11 @@ public class Waffe {
 			else			
 				dmg += (dmge.charAt(i) + "");
 
+	}
+	
+	public Waffe(String nick, String at, String pa, String dmge, String tp, String tpkk, String dk, String ini, String bf){
+		this(nick, at, pa, dmge, dk, ini, bf);
+		TP = tp;
+		TPKK = tpkk;
 	}
 }
