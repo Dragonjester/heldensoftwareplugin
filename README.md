@@ -11,7 +11,7 @@ Bekannte Fehler:<br/>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/deltahedron) Du könntest mir einen Kaffe ausgeben!
 
 <h1>Aktuelles Release</h1>
-<a href="http://bit.ly/2eDzZSg">09.11.2016</a><br/>
+<a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/20.10.20.7z">20.10.2020</a><br/>
 
 <h1>Anleitungen</h1>
 <a href="http://www.youtube.com/watch?v=rCmZtcnFnZA">Anleitung - Maptool Exporter</a> Stand 02.04.2012 <br/>
@@ -27,6 +27,7 @@ Alte Versionen der Anleitungen:<br/>
 
 
 <h1>Changelog</h1><br/>
+20.10.20 - Export von TP/KK ins Token. Erstellt vom <a href="https://www.drachenzwinge.de/forum/index.php?action=profile;u=15296">Drachenzwinge User Oel</a>
 09.11.16 - Export von Dukaten/Silber/Heller/Kreuzer, Astrale Regeneration und Flink. Bugfix: Alerich.rptok -> Alerich.rptok.rptok<br/>
 17.03.13 - Bugfix: Angezeigte Eigenschaftsnamen im W&uuml;rfeltool, Bugfix: Fehlerhafte Tokens<br/>
 06.02.13 - Meta-Talent: Turmspringen, Bugfix Updatecheck<br/>
