@@ -1,7 +1,5 @@
 Hierbei handelt es sich um ein Plugin für die <a href="helden-software.de">Helden-Software</a> dass u.a. den Exporter für Farlons DSA 4.1 Maptool Framework (<a href="http://www.drachenzwinge.de/forum/index.php?topic=77805.0">Link</a>) beinhaltet.<br/>
 
-Wenn ihr mich auf der Drachenzwinge anschreiben wollt, dort heiße ich <a href="http://www.drachenzwinge.de/forum/index.php?action=profile;u=1815">Grom</a><br/>
-
 Über Bugfixes und sonstige Erweiterungen würde ich mich freuen :-)<br/><br/>
 
 Bekannte Fehler:<br/>
