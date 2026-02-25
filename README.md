@@ -8,8 +8,6 @@ Bekannte Fehler:<br/>
 -Inventar wird nicht vollständig exportiert<br/>
 -Es wird nur Mittelreichische Währung exportiert<br/>
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/deltahedron) Du könntest mir einen Kaffe ausgeben!
-
 <h1>Aktuelles Release</h1>
 <a href="https://github.com/Dragonjester/heldensoftwareplugin/raw/master/Releases/20.10.20.7z">20.10.2020</a><br/>
 
@@ -54,5 +52,4 @@ Alte Versionen der Anleitungen:<br/>
 25.01.11 - Updatefunktion gefixt<br/>
 23.01.11 - Ab hier ist das W&uuml;rfeltool ein Plugin f&uuml;r das Heldentool und kann nicht mehr als Eigenst&auml;ndiges Programm ausgef&uuml;hrt werden 
 
-<h1>Lizenz</h1><br/>
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+DAS SCHWARZE AUGE, AVENTURIEN, DERE, MYRANOR, THARUN, UTHURIA, RIESLAND und THE DARK EYE sind eingetragene Marken der Ulisses Spiele GmbH, Waldems. Die Verwendung der Grafiken erfolgt unter den von Ulisses Spiele erlaubten Richtlinien. Eine Verwendung über diese Richtlinien hinaus darf nur nach vorheriger schriftlicher Genehmigung der Ulisses Medien und Spiel Distribution GmbH erfolgen.<br/>Diese Website enthält nicht-offizielle Informationen zum Rollenspiel Das Schwarze Auge und zu Aventurien. Diese Informationen können im Widerspruch zu offiziell publizierten Texten stehen.
