@@ -51,3 +51,4 @@ Alte Versionen der Anleitungen:<br/>
 23.01.11 - Ab hier ist das W&uuml;rfeltool ein Plugin f&uuml;r das Heldentool und kann nicht mehr als Eigenst&auml;ndiges Programm ausgef&uuml;hrt werden <br/><br/>
 
 DAS SCHWARZE AUGE, AVENTURIEN, DERE, MYRANOR, THARUN, UTHURIA, RIESLAND und THE DARK EYE sind eingetragene Marken der Ulisses Spiele GmbH, Waldems. Die Verwendung der Grafiken erfolgt unter den von Ulisses Spiele erlaubten Richtlinien. Eine Verwendung über diese Richtlinien hinaus darf nur nach vorheriger schriftlicher Genehmigung der Ulisses Medien und Spiel Distribution GmbH erfolgen.<br/>Diese Website enthält nicht-offizielle Informationen zum Rollenspiel Das Schwarze Auge und zu Aventurien. Diese Informationen können im Widerspruch zu offiziell publizierten Texten stehen.
+![DSA Fanware](fan_projekt_logo.png)
